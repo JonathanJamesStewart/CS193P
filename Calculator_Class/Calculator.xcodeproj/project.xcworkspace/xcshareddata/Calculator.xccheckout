@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FA30AFB-09C7-407B-9848-72DF6893526B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C9625215E2BB19AD8176A63B14F3AEF3B719DFE</key>
+		<string>https://github.com/JonathanJamesStewart/CS193P.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Calculator_Class/Calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C9625215E2BB19AD8176A63B14F3AEF3B719DFE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JonathanJamesStewart/CS193P.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8C9625215E2BB19AD8176A63B14F3AEF3B719DFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C9625215E2BB19AD8176A63B14F3AEF3B719DFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Developer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
